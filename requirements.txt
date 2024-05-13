@@ -1,0 +1,6 @@
+streamlit
+tensorflow-2.14.0
+numpy
+pillow
+openai==0.28.0
+python-dotenv
