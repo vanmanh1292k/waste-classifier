@@ -1,5 +1,6 @@
-##Smart waste classification system using mobileNet model
-##The interface is implemented using the Streamlit library
+## Smart waste classification system using mobileNet model
+
+## The interface is implemented using the Streamlit library
 
 
 Photo taken from camera
